@@ -1,10 +1,10 @@
 # Moments-SwiftUI
-Wechat's moments style like UI build with SwiftUI
+Wechat moments style like UI build with SwiftUI
 
 Features:
-  Support swiftUI package,
-  Using MVVM pattern ,
-  Preview supported
+  1. Support swiftUI package
+  2. Using MVVM pattern 
+  3. Preview supported
 
-Build Requirements:
-Xcode version > 12.0
+Requirements:
+  1. Xcode version > 12.0
